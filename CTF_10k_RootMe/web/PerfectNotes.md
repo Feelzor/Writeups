@@ -1,16 +1,8 @@
 # CTF RootMe 10K - Perfect Notes
 
-![](./img/perfectnotes-author.svg) ![](./img/perfectnotes-difficulty.svg)
+![](./img/perfectnotes-author.svg) ![](./img/perfectnotes-difficulty.svg) ![](./img/perfectnotes-category.svg)
 
-## Description
-
-```
-A new notes service with some custom features as been created. Your job? Get the admin's secret note :)
-
-Author : Kévin_Mizu#9360
-
-NB: the exploitation is feasible on a Chromium-based browser
-```
+## ![](./img/perfectnotes-desc.png)
 
 ## Discovering the website
 
