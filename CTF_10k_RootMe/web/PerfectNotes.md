@@ -1,6 +1,6 @@
 # CTF RootMe 10K - Perfect Notes
 
-![](./img/perfectnotes-author.svg) ![](./img/perfectnotes-difficulty.svg) ![](./img/perfectnotes-category.svg)
+![](./img/author-kevinmizu.svg) ![](./img/difficulty-hard.svg) ![](./img/category.svg)
 
 ## ![](./img/perfectnotes-desc.png)
 
