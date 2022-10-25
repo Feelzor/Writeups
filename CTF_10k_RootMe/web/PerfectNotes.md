@@ -4,6 +4,8 @@
 
 ## ![](./img/perfectnotes-desc.png)
 
+This solution is not the intended way to solve the challenge. You can see another (and intended) solution on Kévin Mizu's [website](https://mizu.re/post/perfect_notes).
+
 ## Discovering the website
 
 ![](./img/perfectnotes-1.png)
