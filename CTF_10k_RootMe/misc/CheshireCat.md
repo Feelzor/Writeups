@@ -41,3 +41,11 @@ After that, that's it! Cheshire is on your Discord server. What happens next?
 ![](./img/cheshire-2.png)
 
 **Flag: `RM{d0n't_l3t_y0uR_b0Ts_pUbl1c}`**
+
+## How to fix that bot
+
+The main problem (apart from the fact that a discord bot keeps your password and gives it in clear text on Discord) is that we can invite the Discord bot on our server, and using Discord permissions to know if you are the owner of the server may have repercussions if the bot is invited somewhere you don't expect it to be.
+
+Fortunately, Discord allows us to create private bots that cannot be invited (which is the case of [The White Rabbit](./TheWhiteRabbit.md) bot. You can activate this option in **Authorization Flow**.
+
+![](./img/cheshire-3.png)

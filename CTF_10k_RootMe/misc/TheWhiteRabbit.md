@@ -132,4 +132,10 @@ In fact, there are no protections in place, just a space that I was missing the 
 !ping "; cat flag.txt "
 ```
 
+## What went wrong and how to fix it
 
+The problem in this bot is that it takes the user input and directly uses it in a shell command: `ping challenge$userInput.root-me.org`, and what `bash` (and other shells) does is a simple replace, which means that spaces are considered as multiple arguments, `;` as the end of a command, etc.
+
+My final payload gives the command `ping challenge; cat flag.txt .root-me.org`, which makes an error (`challenge` is not a proper domain name, `ping` is unable to find it), and then executes the `cat` command.
+
+A simple way to prevent this behaviour is to surround the variable with quotes, with the command `ping challenge"$userInput".root-me.org`. This way, the variable will stay inside the quotes and won't execute another command.
