@@ -116,7 +116,7 @@ Image Size                      : 768x576
 Megapixels                      : 0.442
 ```
 
-What I immediately saw was the name of the artist: Rene te Pas. That **must** be it! I didn't even take the time to read the rest of the output (bad idea, if you ask me) and went back on my best googling. `Rene te pas kamerik boat`, `Rene te pas boat`, `Rene te pas netherlands`, `Rene te pas` are all searched I've made, yet this boat is still not appearing, even in the images tab. I've found a LinkedIn page, a Facebook page, but none seemed to be of a photographer passionate about boats. So where did he go?
+What I immediately saw was the name of the artist: Rene te Pas. That **must** be it! I didn't even take the time to read the rest of the output (bad idea, if you ask me) and went back on my best googling. `Rene te pas kamerik boat`, `Rene te pas boat`, `Rene te pas netherlands`, `Rene te pas` are all searches I've made, yet this boat is still not appearing, even in the images tab. I've found a LinkedIn page, a Facebook page, but none seemed to be of a photographer passionate about boats. So where did he go?
 
 If I'm completely honest, one result kept my attention. I found the [MarineTraffic](https://www.marinetraffic.com/en/photos/by/page:1/copyright:Rene%20te%20Pas/) page where that person posts lots of pictures of boats. Incredible! I go through the 10 first pages before asking myself: how many are there? That is when I realized there was more than 100 pages, and I couldn't just open all of them by myself.
 
