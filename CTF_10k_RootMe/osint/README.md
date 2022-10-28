@@ -1,6 +1,6 @@
 # OSINT Challenges
 
-Here is the list of all my writeups for the Web Challenges
+Here is the list of all my writeups for the OSINT Challenges
 
 - **[Easy]** [At that time](./AtThatTime.md) - 50 points
 - **[Easy]** [Somewhere in France](./SomewhereInFrance.md) - 50 points
