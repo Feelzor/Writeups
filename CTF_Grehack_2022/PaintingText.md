@@ -2,7 +2,7 @@
 
 ![](./img/category-misc.svg) ![](./img/difficulty-medium.svg)
 
-![](/home/feelzor/.config/marktext/images/2022-11-20-10-49-56-image.png)
+![](./img/paintingtext-desc.png)
 
 This is a challenge that I created. Therefore, I only present to you the expected way to solve it. It should contain just enough steps to understand what is going on, but may lack other tests and techniques that you would use during the CTF to solve such a challenge.
 
