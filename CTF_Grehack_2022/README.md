@@ -4,5 +4,5 @@ Here are all my write-ups for the CTF of the 10th edition of Grehack that took p
 
 I was part of the organization, therefore only my challenges are solved within these write-ups.
 
-- **[WEB - MEDIUM]** [Icons Bank](./Icons Bank.md) - 150 points
-- **[MISC - MEDIUM+]** [Painting Text](./Painting Text.md) - 300 points
+- **[WEB - MEDIUM]** [Icons Bank](./IconsBank.md) - 150 points
+- **[MISC - MEDIUM+]** [Painting Text](./PaintingText.md) - 300 points
